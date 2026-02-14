@@ -28,7 +28,8 @@ st.set_page_config(
 # Configure Gemini API
 def configure_gemini():
     """Configure Google Gemini AI"""
-    api_key = os.getenv('GEMINI_API_KEY')
+    api_key = st.secrets["GEMINI_API_KEY"]
+
     if not api_key:
         st.error("⚠️ GEMINI_API_KEY not found in environment variables!")
         st.info("Please add your Gemini API key to the .env file")
