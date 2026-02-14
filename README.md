@@ -11,7 +11,6 @@ This project integrates multiple AI agents to analyze, classify, and provide ins
 - Deep Learning (CNN-based models for image classification)  
 - Flask backend for API and model inference  
 - Streamlit frontend for user interaction  
-- Deployment-ready setup for Hugging Face Spaces & Vercel  
 
 ---
 
