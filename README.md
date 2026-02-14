@@ -69,12 +69,7 @@ Prediction Output
 
 # ⚙️ Installation & Local Setup (Windows - VS Code)
 
-## 1️⃣ Clone Repository
 
-```bash
-git clone https://github.com/itsAnkit2153/Multi-Agent-AI-Medical-Diagnosis-System.git
-cd Multi-Agent-AI-Medical-Diagnosis-System
-```
 
 ---
 
@@ -160,7 +155,7 @@ streamlit run app.py
 - Deep Learning (CNN)  
 - Computer Vision  
 - Pandas  
-- Plotly  
+  
 
 ---
 
